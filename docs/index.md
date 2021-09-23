@@ -1,36 +1,18 @@
-## Welcome to GitHub Pages
+### Welcome to Yani's page
 
-You can use the [editor on GitHub](https://github.com/TechSQYani/yani.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Hello there. My name is Yani Garcia and this is my personal webpage. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Testing out various settings with markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As the point is to use markdown as practice I am going to write 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Website access from the repository
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TechSQYani/yani.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For future use the web page itself can be accessed [here](https://github.com/TechSQYani/yani.github.io/settings/pages). Yes this links to itself.
 
 ### Support or Contact
 
